@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @vanhellbr
-- 👀 I’m interested in flutter and React
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me https://www.linkedin.com/in/luiz-augusto-de-souza-7a88811a5/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAugustoS&langs_count=20&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-vanhellbr/vanhellbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![rank](https://github-readme-stats.vercel.app/api?username=LuizAugustoS&show_icons=true&theme=gruvbox)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuizAugustoS&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
